@@ -1,4 +1,3 @@
----
 
 # File Upload API using GridFS, Multer, and MongoDB
 
